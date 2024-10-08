@@ -1,0 +1,3 @@
+when you are behind in time and need to catch up to main
+git pull --rebase
+
