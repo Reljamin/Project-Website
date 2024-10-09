@@ -7,6 +7,6 @@ CMD ["nginx", "-g", "daemon off;"]
 # docker build -t website .
 
 # command to run container
-# docker run -p 8080:80 -v $(pwd):/usr/share/nginx/html my-website
+# docker run -p 8080:80 -v nginx/html my-website
 
 # http://localhost:8080
