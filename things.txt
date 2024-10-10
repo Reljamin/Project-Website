@@ -1,3 +1,10 @@
 when you are behind in time and need to catch up to main
 git pull --rebase
 
+to upload
+git add filename or .
+git commmit -m "message here"
+git push
+
+to download
+git pull
