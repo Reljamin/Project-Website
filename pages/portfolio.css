@@ -15,7 +15,7 @@
 #nav-tab {
     background-color: #264653;
     height: 150px;
-    
+    opacity: 0.1; 
 }
 
 .topbar {
