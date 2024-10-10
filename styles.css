@@ -9,3 +9,44 @@ a {
 a:hover {
     color: #E76F51;
 }
+
+#box-zero {
+    background-color: #264653;
+    padding: 20px;
+    height: 250px;
+}
+#box-one {
+    background-color: yellowgreen;
+    padding: 20px;
+    height: 250px;
+}
+
+#grid-box-one {
+    background-color: darksalmon;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 15%;
+
+}
+
+#nav-tab {
+    background-color: #264653;
+    height: 150px;
+    
+}
+
+.topbar {
+    background-color: #264653;
+    overflow: hidden;
+    height: 10%;
+    
+}
+
+.topbar a {
+    float: left;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+}
+
