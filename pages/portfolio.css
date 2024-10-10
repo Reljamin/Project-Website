@@ -11,3 +11,23 @@
     width: 15%;
 
 }
+
+.topbar {
+    background-color: rgb(55, 63, 71);
+    overflow: hidden;
+    height: 10%;
+    
+}
+
+.topbar a {
+    float: left;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+}
+
+.topbar a.active {
+    background-color: lightgray;
+    color: black
+}
