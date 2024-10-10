@@ -1,33 +1,11 @@
-body,
-html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-}
-
 body {
-    position: relative;
-    overflow: hidden;
+    background-color: #E9C46A;
+    color: #264653;
+    font-family: 'Times New Roman', Times, serif;
 }
-
-body::before {
-    content: "";
-    position: fixed;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
-    background-image: url("https://static01.nyt.com/images/2024/05/03/multimedia/03stanley-stellar-NEW-ghql/03stanley-stellar-NEW-ghql-articleLarge.jpg?quality=75&auto=webp&disable=upscale");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    filter: blur(40px);
-    z-index: -1;
+a {
+    color: #2A9D8F;
 }
-
-.content {
-    position: relative;
-    z-index: 1;
-    color: white;
-    padding: 100px;
+a:hover {
+    color: #E76F51;
 }
