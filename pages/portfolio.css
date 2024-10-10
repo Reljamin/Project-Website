@@ -12,6 +12,12 @@
 
 }
 
+#nav-tab {
+    background-color: rgb(55, 63, 71);
+    height: 150px;
+    
+}
+
 .topbar {
     background-color: rgb(55, 63, 71);
     overflow: hidden;
@@ -27,7 +33,3 @@
     font-size: 17px;
 }
 
-.topbar a.active {
-    background-color: lightgray;
-    color: black
-}
