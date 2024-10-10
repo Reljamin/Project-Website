@@ -1,4 +1,13 @@
 #box-one {
     background-color: yellowgreen;
-    padding: 10px;
+    padding: 20px;
+    height: 350px;
+}
+
+#grid-box-one {
+    background-color: darksalmon;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 15%;
+
 }
