@@ -1,37 +1,17 @@
-#box-one {
-    background-color: yellowgreen;
-    padding: 20px;
-    height: 250px;
-}
-
-#grid-box-one {
-    background-color: darksalmon;
-    margin-left: 10%;
-    margin-top: 5%;
-    width: 15%;
-
-}
-
-#nav-tab {
-    background-color: #264653;
-    height: 150px;
-    opacity: 0.1; 
-}
-
-.topbar {
+.topnav {
     background-color: #264653;
     overflow: hidden;
-    height: 10%;
-    border-style: solid;
-    border-color: #1a323b;
-    border-width: 5px;
 }
 
-.topbar a {
+.topnav p {
     float: left;
-    color: antiquewhite;
     text-align: center;
-    padding: 20px;
+    padding: 14px 16px;
+    text-decoration: none;
     font-size: 17px;
 }
 
+.topnav a {
+    background-color: #376679;
+    
+}
