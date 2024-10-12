@@ -1,7 +1,7 @@
 .topnav {
     background-color: #264653;
     overflow: hidden;
-    max-width: min-content;
+    width: auto;
   }
 
 
