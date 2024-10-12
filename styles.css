@@ -33,7 +33,12 @@ a:hover {
 #nav-tab {
     background-color: #1b1a1a;
     position: relative;
-    height: 150px;
+    height: 50px;
+    border: 3px solid #232c3b;
+    padding-left: 5%;
+    padding-right: 75%;
+    font-size: 20px;
+
     z-index: 2;
 }
 /*
