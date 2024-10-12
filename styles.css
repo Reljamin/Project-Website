@@ -32,6 +32,7 @@ a:hover {
 
 #nav-tab {
     background-color: #1b1a1a;
+    position: relative;
     height: 150px;
     z-index: 2;
 }
