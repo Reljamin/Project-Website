@@ -12,6 +12,7 @@ a:hover {
 
 #box-zero {
     background-color: #264653;
+    position: relative;
     padding: 20px;
     height: 250px;
     z-index: 1;
@@ -35,8 +36,8 @@ a:hover {
     position: relative;
     height: 50px;
     border: 3px solid #232c3b;
-    padding-left: 5%;
-    padding-right: 75%;
+    
+    
     font-size: 20px;
 
     z-index: 2;
